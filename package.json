@@ -1,6 +1,6 @@
 {
   "name": "azure-simple-devicelogin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utility for azure device login.",
   "main": "lib/devicelogin.js",
   "directories": {
