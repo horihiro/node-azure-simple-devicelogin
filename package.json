@@ -1,7 +1,7 @@
 {
   "name": "azure-simple-devicelogin",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Utility for device login.",
   "main": "lib/devicelogin.js",
   "directories": {
     "lib": "lib"
@@ -9,8 +9,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "azure",
+    "login",
+    "device login",
+    "authorization"
+  ],
+  "author": "horihiro",
   "license": "MIT",
   "dependencies": {
     "request": "^2.85.0"
