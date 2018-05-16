@@ -5,7 +5,7 @@ Utility for azure device login.
 ## Install
 
 ```sh
-npm i azure-device-login
+npm i azure-simple-devicelogin
 ``` 
 
 ## Usage
