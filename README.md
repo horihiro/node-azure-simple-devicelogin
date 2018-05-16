@@ -1,9 +1,11 @@
 # node-azure-simple-devicelogin
 
+Utility for azure device login.
+
 ## Install
 
 ```sh
-npm i git@github.com:horihiro/node-azure-simple-devicelogin.git
+npm i azure-device-login
 ``` 
 
 ## Usage
